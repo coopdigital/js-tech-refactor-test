@@ -1,0 +1,13 @@
+{
+  "name": "js-tech-refactor-test",
+  "version": "0.0.1",
+  "description": "A tech refactor test written in javascript",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Simon Stead <simonstead@me.com> (https://github.com/simonstead)",
+  "license": "ISC"
+}
