@@ -1,7 +1,6 @@
 # Javascript tech refactor test
 
 
-This uses `mocha` as its test runner.
+deprecated
 
-
-Just `yarn test` or `npm test` to get started
+use: https://github.com/coopdigital/js-tech-test
